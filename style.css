@@ -1,0 +1,122 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    position: relative;
+    left: 20px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(244, 244, 244);
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  /* .topnav a.active {
+    background-color: #333;
+    color: white;
+  } */
+.header {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    background-color: gainsboro;
+    padding-top: 12px;
+}  
+.logo {
+    width: 20%;
+    text-align: center;
+}
+.img {
+    position: relative;
+    top: 32px;
+}
+
+.title {
+    width: 70%;
+}
+
+.tx-c {
+    text-align: center;
+}
+.message {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+.motto{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    position: relative;
+    bottom: 40px;
+}
+.w-100 {
+    width: 100%;
+}
+.media {
+    text-align: center;
+}
+.heading {
+    text-align: center;
+    position: relative;
+    right: 286px;
+}
+.author {
+    position: relative;
+    left: 253px;
+    bottom: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+}
+.author-sub {
+    padding-left: 3px;
+}
+.story {
+    margin-right: 16rem;
+    margin-left: 16rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkslategray;
+}
+.footer {
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.col-1{
+    width: 20%;
+    padding: 25px;
+    color: white;
+}
+.col-2{
+    width: 20%;
+    padding: 25px;
+    color: white;
+}
+.p-10 {
+    padding: 10px;
+}
+.col-3 {
+    width: 30%;
+    padding: 25px;
+    text-align: center;
+}
+.pt-10 {
+    padding-top: 10px;
+}
+.foot-title {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 14px;
+}
+.foot {
+    padding-top: 24px;
+}
