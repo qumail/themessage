@@ -121,3 +121,25 @@
 .foot {
     padding-top: 24px;
 }
+.btn {
+    background-color: #eedbcd;
+    color: white;
+    padding: 12px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn-div{
+    width: 100%;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+.caption {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+}
+.img-div {
+    white-space: sd;
+}
