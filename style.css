@@ -148,3 +148,19 @@
 .img-div {
     white-space: sd;
 }
+
+.last-santoor {
+    padding-bottom: 35px;
+}
+.head-class{
+    margin-left: 178px;
+}
+
+.last-head-santoor{
+    font-family: inherit;
+    font-size: 29px;
+    font-weight: 700;
+    position: relative;
+    top: 18px;
+    left: -164px;
+}
