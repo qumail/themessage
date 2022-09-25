@@ -171,3 +171,45 @@
     font-size: 13px;
     left: 306px;
 }
+.contact-info {
+    width: 100%;
+}
+.col-con {
+    display: flex;
+    flex-direction: column;
+    margin-top: 23px;
+}
+.contact-h {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+}
+.span-con {
+    position: relative;
+    top: -32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+    font-size: 16px;
+}
+.info {
+    padding: 12px;
+}
+
+.d-div-c {
+    width: 45%;
+    background-color: azure;
+    border-radius: 23px;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    backdrop-filter: blur(14px);
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    top: 50px;
+    padding-bottom: 23px;
+} 
+
+.aboutus {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    white-space: pre-line;
+}
