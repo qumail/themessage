@@ -88,7 +88,7 @@
     color: darkslategray;
 }
 .footer {
-    background-color: black;
+    background-color: #333;
     display: flex;
     flex-direction: row;
 }
