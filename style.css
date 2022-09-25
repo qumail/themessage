@@ -164,3 +164,10 @@
     top: 18px;
     left: -164px;
 }
+.author-sign {
+    position: relative;
+    top: 19px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 13px;
+    left: 580px;
+}
