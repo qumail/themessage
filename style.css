@@ -130,6 +130,11 @@
     cursor: pointer;
 }
 
+.btn:hover {
+    background-color: rgb(190, 89, 89);
+    color: black;
+  }
+
 .btn-div{
     width: 100%;
     text-align: center;
