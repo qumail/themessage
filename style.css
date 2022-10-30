@@ -68,8 +68,7 @@
 }
 .heading {
     text-align: center;
-    position: relative;
-    right: 286px;
+    width: 62%;
 }
 .author {
     position: relative;
