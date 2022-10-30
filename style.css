@@ -68,6 +68,7 @@
 }
 .heading {
     text-align: center;
+    padding: 12px;
 }
 .author {
     position: relative;
@@ -158,16 +159,16 @@
     font-family: inherit;
     font-size: 29px;
     font-weight: 700;
-    position: relative;
+    /* position: relative;
     top: 18px;
-    left: -164px;
+    left: -164px; */
 }
 .author-sign {
     position: relative;
-    top: 21px;
+    top: -14px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 13px;
-    left: 390px;
+    /* left: 390px; */
 }
 .contact-info {
     width: 100%;
@@ -201,13 +202,50 @@
     backdrop-filter: blur(14px);
     margin-right: auto;
     margin-left: auto;
-    position: relative;
-    top: 50px;
-    padding-bottom: 23px;
+    /* position: relative;
+    top: 50px; */
+   height: 40%;
 } 
+
+.card-1 {
+    width: 45%;
+    background-color: azure;
+    border-radius: 23px;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    backdrop-filter: blur(14px);
+    margin-right: auto;
+    margin-left: auto;
+    /* position: relative;
+    top: 50px; */
+   height: 60%;
+}
 
 .aboutus {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 18px;
-    white-space: pre-line;
+    font-size: 16px;
+    white-space: normal;
+}
+
+.post-1 {
+    padding-top: 16px;
+}
+.c-h {
+    padding: 16px;
+}
+
+.footer-p{
+    padding-top: 50px;
+}
+
+.anchor {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.foot-pad {
+    padding-top: 120px;
+}
+.pad-55{
+    padding-top: 55px;
 }
