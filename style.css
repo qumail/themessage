@@ -84,8 +84,9 @@
 .story {
     margin-right: 16rem;
     margin-left: 16rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: darkslategray;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(15, 17, 17);
+    font-size: 24px;
 }
 .footer {
     background-color: #333;
